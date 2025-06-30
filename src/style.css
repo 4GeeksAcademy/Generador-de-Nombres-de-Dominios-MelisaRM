@@ -10,4 +10,6 @@ button {
   cursor: pointer;
 }
 
-
+.domain-list {
+  line-height: 1.6;
+}
